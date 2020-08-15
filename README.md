@@ -6,4 +6,4 @@ La lecture impliquera une analyse lexicale et syntaxique triviale de la commande
 et l'évaluation impliquera de rechercher le binaire correspondant sur la machine et l'exécuter,
 ou bien d'exécuter le code concerné dans le cas d'une commande built-in au shell.
 
-note: 117 / 100
+Note: 117 / 100
